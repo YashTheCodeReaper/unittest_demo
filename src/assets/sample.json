@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Suraj",
+    "designation": "Technical Lead"
+  },
+  {
+    "id": 2,
+    "name": "Varsha",
+    "designation": "Associate Technical Lead"
+  },
+  {
+    "id": 3,
+    "name": "Sirajuddin",
+    "designation": "Associate Technical Lead"
+  },
+  {
+    "id": 4,
+    "name": "Chirag",
+    "designation": "Senior Software Engineer"
+  },
+  {
+    "id": 5,
+    "name": "Poornachandra",
+    "designation": "Software Engineer"
+  },
+  {
+    "id": 6,
+    "name": "Kavana",
+    "designation": "Junior Software Engineer"
+  },
+  {
+    "id": 7,
+    "name": "Jyothi",
+    "designation": "Junior Software Engineer"
+  },
+  {
+    "id": 8,
+    "name": "Bharish",
+    "designation": "Junior Software Engineer"
+  },
+  {
+    "id": 9,
+    "name": "Yashwanth",
+    "designation": "Trainee Software Engineer"
+  }
+]
